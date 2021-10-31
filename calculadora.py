@@ -2,7 +2,7 @@ operation = input('''
 Qual operação você quer fazer? Insira um dos operadores:
 + para adição
 - para subtração
-* para multiplição
+* para multiplicação
 / para divisão
 ''')
 
@@ -30,5 +30,5 @@ else:
     
 
 #Continuação dos estudos:
-#Incluir operações infinitas com funções
+#Incluir operações infinitas com funções e acrescentar o código
 #site: https://www.digitalocean.com/community/tutorials/como-fazer-um-programa-de-calculadora-simples-no-python-3-pt
